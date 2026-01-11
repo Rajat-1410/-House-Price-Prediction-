@@ -70,8 +70,7 @@ This step was included to understand:
 - Scikit-learn
 
 ## Project Status
-✔ Completed as a **learning and practice project**  
-✔ Open for future improvements
-
-## 🙌 Note
+- Completed as a **learning and practice project**  
+- Open for future improvements
+##  Note
 This project was created for **self-learning and conceptual clarity** in machine learning and regression analysis.
